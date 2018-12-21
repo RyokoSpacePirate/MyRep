@@ -1,7 +1,7 @@
 Welcome to kitchen!
 pasta
 chicken
-
-
+beans
+pizza
 thank you!
 Done. Final version.
