@@ -3,5 +3,8 @@ pasta
 chicken
 beans
 pizza
+burger
+burito
+hotdog
 thank you!
 Done. Final version.
